@@ -1,6 +1,5 @@
-Властелин колец
-Сверхъестественное
-Картофельное пюре с котлетой
-Лето
-Англия~                                                                               
-Type  :qa!  and press <Enter> to abandon all changes and qa!  and pressqa!  and press <Enter> to abandon all changes and exit Vim <Enter> to abandon all changes and exit Vimexit Vim
+{ "movie" : "The Lord of the Rings"
+"series" : "Supernatural"
+"food" : "cheese"
+"season" : "summer"
+"country" : "Spain" }
