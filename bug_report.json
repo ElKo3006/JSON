@@ -1,1 +1,9 @@
-
+{ "ID" : 2234, 
+ "Title" : "Search error on [My lists] page",
+ "Enviroment" : "macOS, Google Chrome Version 112.0.5615.49",
+ "Build" : "1.1",
+ "Severity" : "Minor",
+ "Priority" : "Low",
+ "Steps" : "Enter toramp.com in the address bar of the browser and press enter on the keyboard, Go to the [My Lists] page3, Enter The wire in the search field and press enter on your keyboard"
+ "Expected result" : "The [Search results] page displays series with keywords in the title"
+ "Actual result" : "Page not found (404 error)" }
